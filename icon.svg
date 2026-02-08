@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="128" cy="128" r="120" fill="#ffffff"/>
+
+  <!-- Stylized Y -->
+  <path
+    d="
+      M64 64
+      L112 128
+      V176
+      C112 192 144 192 144 176
+      V128
+      L192 64
+      C200 52 184 40 172 52
+      L128 112
+      L84 52
+      C72 40 56 52 64 64
+      Z
+    "
+    fill="#000000"
+  />
+</svg>
